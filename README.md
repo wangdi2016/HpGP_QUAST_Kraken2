@@ -11,6 +11,9 @@ Analysis pipeline scripts
 Final classification results
 
 ## 📂 Repository Structure
+
+```
 ├── HpGP-Kraken2/           # For Kraken2
 ├── HpGP-QUAST/             # For QUAST
 └── README.md
+```
