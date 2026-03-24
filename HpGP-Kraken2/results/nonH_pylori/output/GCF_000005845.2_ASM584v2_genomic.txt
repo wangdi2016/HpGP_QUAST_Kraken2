@@ -1,0 +1,12 @@
+100.00	1	0	R	1	root
+100.00	1	0	R1	131567	  cellular organisms
+100.00	1	0	R2	2	    Bacteria
+100.00	1	0	K	3379134	      Pseudomonadati
+100.00	1	0	P	1224	        Pseudomonadota
+100.00	1	0	C	1236	          Gammaproteobacteria
+100.00	1	0	O	91347	            Enterobacterales
+100.00	1	0	F	543	              Enterobacteriaceae
+100.00	1	0	G	561	                Escherichia
+100.00	1	0	S	562	                  Escherichia coli
+100.00	1	0	S1	83333	                    Escherichia coli K-12
+100.00	1	1	S2	879462	                      Escherichia coli str. K-12 substr. MG1655star
