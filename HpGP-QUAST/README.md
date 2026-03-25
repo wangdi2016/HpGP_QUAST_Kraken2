@@ -83,7 +83,8 @@ Using the public African reference *SouthAfrica7* **(https://www.ncbi.nlm.nih.go
 This finding indicates that the Africa2 lineage possess region-specific structures distinct from other populations. **Only 15 strains showing here in the table (See complete result from Africa2_SouthAfrica20.genome_fraction.xlsx).**
 
 #### *SouthAfrica7*
-<img width="761" height="432" alt="Screenshot 2026-03-25 at 7 11 13 PM" src="https://github.com/user-attachments/assets/c10598a2-f221-48cf-abd5-4e442c8d448f" />
+
+<img width="474" height="257" alt="Screenshot 2026-03-25 at 7 15 47 PM" src="https://github.com/user-attachments/assets/9b097473-cdb8-44d3-8d61-f5d6cad7eddd" />
 
 
 Using the public African reference *SouthAfrica7* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000185245.1/)**, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**. The rest sequences are less than 10%.
