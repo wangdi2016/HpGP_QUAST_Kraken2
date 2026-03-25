@@ -207,7 +207,11 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/602/095/GCF_001602095.1_AS
 
 ## Citation
 
-If you use Kraken2:
+If you use the results, please cite the following work:
+
+Andrés Julián Gutiérrez-Escobar et al. 
+**Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture**
+xxx (2025).
 
 Wood DE, Lu J, Langmead B.
 **Improved metagenomic analysis with Kraken 2.**
