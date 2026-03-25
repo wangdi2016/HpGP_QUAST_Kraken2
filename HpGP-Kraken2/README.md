@@ -139,7 +139,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/305/GCF_000009305.1_AS
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/602/095/GCF_001602095.1_ASM160209v1/GCF_001602095.1_ASM160209v1_genomic.fna.gz
 ```
 
-* ### Escherichia coli K-12 identified as Escherichia coli K-12
+* #### Escherichia coli K-12 identified as Escherichia coli K-12
 
 ```
 100.00  1       0       R       1       root
@@ -156,7 +156,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/602/095/GCF_001602095.1_AS
 100.00  1       1       S2      879462                        Escherichia coli str. K-12 substr. MG1655star
 ```
 
-* ### Helicobacter acinonychis str. Sheeba identified as Helicobacter acinonychis str. Sheeba
+* #### Helicobacter acinonychis str. Sheeba identified as Helicobacter acinonychis str. Sheeba
 
 ```
 100.00  2       0       R       1       root
@@ -172,7 +172,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/602/095/GCF_001602095.1_AS
 100.00  2       2       S1      382638                      Helicobacter acinonychis str. Sheeba
 ```
 
-* ### Helicobacter himalayensis identified as Helicobacter himalayensis
+* #### Helicobacter himalayensis identified as Helicobacter himalayensis
 
 ```
 100.00  1       0       R       1       root
