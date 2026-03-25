@@ -78,6 +78,16 @@ This finding indicates that the Africa2 lineage possess region-specific structur
 #### *SouthAfrica20*
 <img width="474" height="257" alt="image" src="https://github.com/user-attachments/assets/e7854530-7b66-4f2d-ba0d-737d9c2449de" />
 
+Using the public African reference *SouthAfrica7* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000590775.1/)**, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**. The rest sequences are less than 10%. 
+
+This finding indicates that the Africa2 lineage possess region-specific structures distinct from other populations. **Only 15 strains showing here in the table (See complete result from Africa2.genome_fraction.xlsx).**
+
+#### *SouthAfrica7*
+<img width="474" height="257" alt="image" src="https://github.com/user-attachments/assets/e7854530-7b66-4f2d-ba0d-737d9c2449de" />
+
+
+
+
 ### 4. *GrafGen Bioconductor package*
 For future identification of the population of new strains, we have developed GrafGen, a R package to address this issue (https://www.bioconductor.org/packages/release/bioc/html/GrafGen.html). The manuscript has been accepted by BMC Bioinformatics. We presented the results in 2024 AACR (https://aacrjournals.org/cancerres/article/84/6_Supplement/789/736762/Abstract-789-GrafGen-Distance-Based-Inference-of).
 
