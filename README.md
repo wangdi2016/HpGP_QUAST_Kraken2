@@ -17,3 +17,8 @@ It includes:
 ├── HpGP-QUAST/             # For QUAST
 └── README.md
 ```
+
+## Citation
+If you use the analysis summary, please cite:
+- Andrés Julián Gutiérrez-Escobar *et al.*
+*Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture* (2026)
