@@ -189,7 +189,7 @@ If you use the results, please cite the following work:
 
 Andrés Julián Gutiérrez-Escobar et al. 
 **Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture**
-xxx (2025).
+Communications Biology (2026).
 
 Wood DE, Lu J, Langmead B.
 **Improved metagenomic analysis with Kraken 2.**
