@@ -134,7 +134,7 @@ Full results available at:
 
 * `*.txt` → detailed taxonomic breakdown
 * `*.kraken2` → classification output
-* `kraken2_summary.tsv` → aggregated summary of all samples
+* `kraken2_summary.tsv` → aggregated summary of all 1011 HpGP samples
 
 ---
 
