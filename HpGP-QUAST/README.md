@@ -30,12 +30,12 @@ For the assembly quality assessment of *de novo* genomic sequences, please check
 
 ---
 
-### SouthAfrica20 and SouthAfrica7
+### SouthAfrica7
 - **Publication:** Stacy S. Duncan *et al.*  
   *Genome Sequences of Three hpAfrica2 Strains of Helicobacter pylori*  
   *Genome Announcements* **1**(5): e00729-13 (2013)  
   DOI: [10.1128/genomeA.00729-13](https://doi.org/10.1128/genomeA.00729-13)  
-- **Database:** GenBank (SouthAfrica20 strain sequence deposited)
+- **Database:** GenBank (SouthAfrica7 strain sequence deposited)
 
 ---
 
@@ -70,26 +70,14 @@ With the public East Asian reference *F16* **(https://www.ncbi.nlm.nih.gov/datas
 
 <img width="472" height="257" alt="image" src="https://github.com/user-attachments/assets/61c563bb-fd2b-44a6-9e26-61f3220e6ebd" />
 
-### 3. *SouthAfrica20* (Africa2)
-Using the public African reference *SouthAfrica20* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000590775.1/)**, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**. The rest sequences are less than 10%. 
+### 3. *SouthAfrica7* (Africa2)
+Using the public African reference *SouthAfrica7* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000185245.1/)**, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**. The rest sequences are less than 10%.
 
-This finding indicates that the Africa2 lineage possess region-specific structures distinct from other populations. **Only 15 strains showing here in the table (See complete result from Africa2.genome_fraction.xlsx).**
-
-#### *SouthAfrica20*
-<img width="474" height="257" alt="image" src="https://github.com/user-attachments/assets/e7854530-7b66-4f2d-ba0d-737d9c2449de" />
-
-Using the public African reference *SouthAfrica7* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000590775.1/)**, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**. The rest sequences are less than 10%. 
-
-This finding indicates that the Africa2 lineage possess region-specific structures distinct from other populations. **Only 15 strains showing here in the table (See complete result from Africa2_SouthAfrica20.genome_fraction.xlsx).**
+This finding indicates that the Africa2 lineage possess region-specific structures distinct from other populations. **Only 15 strains showing here in the table (See complete result from Africa2_SouthAfrica7.genome_fraction.xlsx).**
 
 #### *SouthAfrica7*
 
 <img width="474" height="257" alt="Screenshot 2026-03-25 at 7 15 47 PM" src="https://github.com/user-attachments/assets/9b097473-cdb8-44d3-8d61-f5d6cad7eddd" />
-
-
-Using the public African reference *SouthAfrica7* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000185245.1/)**, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**. The rest sequences are less than 10%.
-
-This finding indicates that the Africa2 lineage possess region-specific structures distinct from other populations. **Only 15 strains showing here in the table (See complete result from Africa2_SouthAfrica7.genome_fraction.xlsx).**
 
 ### 4. *GrafGen Bioconductor package*
 For future identification of the population of new strains, we have developed GrafGen, a R package to address this issue (https://www.bioconductor.org/packages/release/bioc/html/GrafGen.html). The manuscript has been accepted by BMC Bioinformatics. We presented the results in 2024 AACR (https://aacrjournals.org/cancerres/article/84/6_Supplement/789/736762/Abstract-789-GrafGen-Distance-Based-Inference-of).
