@@ -27,7 +27,7 @@ It includes:
 
 ## 📥 Data Download
 
-### *HpGP H. pylori Genome Sequences*
+### HpGP H. pylori Genome Sequences
 
 Download genome FASTA files using:
 
@@ -48,7 +48,7 @@ https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500
 
 ## ⚙️ Kraken2 Setup
 
-### *Install Kraken2*
+### Install Kraken2
 
 ```bash
 conda create -n kraken2 -c bioconda kraken2 -y
