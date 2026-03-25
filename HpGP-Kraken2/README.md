@@ -55,7 +55,7 @@ conda create -n kraken2 -c bioconda kraken2 -y
 conda activate kraken2
 ```
 
-### Build Kraken2 Database
+### Build Kraken2 Database if you want to include your reference sequences
 
 ```bash
 kraken2-build --standard --db kraken_db
