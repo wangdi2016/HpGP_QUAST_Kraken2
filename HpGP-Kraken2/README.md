@@ -161,9 +161,9 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/602/095/GCF_001602095.1_AS
 | GCF_000009305.1 | 382638  | 1553927 | Helicobacter     | Helicobacter acinonychis | Helicobacter acinonychis str. Sheeba   |
 | GCF_001602095.1 | 1591088 | 1829936 | Helicobacter     | Helicobacter himalayensis|                                        |
 
-* #### Escherichia coli K-12 identified as Escherichia coli K-12
-* #### Helicobacter acinonychis str. Sheeba identified as Helicobacter acinonychis str. Sheeba
-* #### Helicobacter himalayensis identified as Helicobacter himalayensis
+* Escherichia coli K-12 identified as Escherichia coli K-12
+* Helicobacter acinonychis str. Sheeba identified as Helicobacter acinonychis str. Sheeba
+* Helicobacter himalayensis identified as Helicobacter himalayensis
 
 ---
 
