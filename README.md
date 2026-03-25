@@ -6,9 +6,9 @@ This repository documents the taxonomic classification of 1011 Helicobacter pylo
 
 It includes:
 
-Data sources and download instructions
-Analysis pipeline scripts
-Final classification results
+* Data sources and download instructions
+* Analysis pipeline scripts
+* Final classification results
 
 
 ## Repository Structure
