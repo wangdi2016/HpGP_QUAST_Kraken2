@@ -126,7 +126,7 @@ done
 | HpGP-ZAF-011    | 907239  | 1723727 | Helicobacter     | Helicobacter pylori | Helicobacter pylori SouthAfrica7  |
 
 Full results available at:
-`results/kraken2_summary.tsv`
+`results/kraken2_summary.tsv` https://github.com/wangdi2016/HpGP_QUAST_Kraken2/blob/main/HpGP-Kraken2/results/HpGP/kraken2_summary.tsv
 
 ---
 
