@@ -153,7 +153,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/305/GCF_000009305.1_AS
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/602/095/GCF_001602095.1_ASM160209v1/GCF_001602095.1_ASM160209v1_genomic.fna.gz
 ```
 
-### Summary Table
+### Summary Table for three non H. pylori genome sequences
 
 | seqid           | taxid   | length  | genus            | species                  | strain                                 |
 | --------------- | ------- | ------- | ---------------- | ------------------------ | -------------------------------------- |
