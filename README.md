@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository documents the QUAST (Quality Assessment Tool for Genome Assemblies) evaluation and Kraken2 taxonomic classification of 1011 Helicobacter pylori Genome Project (HpGP) sequences.
+This repository documents the QUAST (Quality Assessment Tool for Genome Assemblies) evaluation and Kraken2 taxonomic classification of 1011 **Helicobacter pylori Genome Project (HpGP)** sequences.
 
 It includes:
 
