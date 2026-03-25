@@ -138,7 +138,7 @@ Full results available at:
 
 ---
 
-## Additional testing on non H. pylori genome sequences
+## Additional testing on three non H. pylori genome sequences
 
 * We further downloaded three non H. pylori genome sequences, E. coli K12, Sheeba, and YS1 for testing.
 
@@ -153,53 +153,17 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/009/305/GCF_000009305.1_AS
 wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/602/095/GCF_001602095.1_ASM160209v1/GCF_001602095.1_ASM160209v1_genomic.fna.gz
 ```
 
+### Summary Table
+
+| seqid           | taxid   | length  | genus            | species                  | strain                                 |
+| --------------- | ------- | ------- | ---------------- | ------------------------ | -------------------------------------- |
+| GCF_000005845.2 | 83333   | 4641652 | Escherichia      | Escherichia coli         | Escherichia coli K-12                  |
+| GCF_000009305.1 | 382638  | 1553927 | Helicobacter     | Helicobacter acinonychis | Helicobacter acinonychis str. Sheeba   |
+| GCF_001602095.1 | 1591088 | 1829936 | Helicobacter     | Helicobacter himalayensis|                                        |
+
 * #### Escherichia coli K-12 identified as Escherichia coli K-12
-
-```
-100.00  1       0       R       1       root
-100.00  1       0       R1      131567    cellular organisms
-100.00  1       0       R2      2           Bacteria
-100.00  1       0       K       3379134       Pseudomonadati
-100.00  1       0       P       1224            Pseudomonadota
-100.00  1       0       C       1236              Gammaproteobacteria
-100.00  1       0       O       91347               Enterobacterales
-100.00  1       0       F       543                   Enterobacteriaceae
-100.00  1       0       G       561                     Escherichia
-100.00  1       0       S       562                       Escherichia coli
-100.00  1       0       S1      83333                       Escherichia coli K-12
-100.00  1       1       S2      879462                        Escherichia coli str. K-12 substr. MG1655star
-```
-
 * #### Helicobacter acinonychis str. Sheeba identified as Helicobacter acinonychis str. Sheeba
-
-```
-100.00  2       0       R       1       root
-100.00  2       0       R1      131567    cellular organisms
-100.00  2       0       R2      2           Bacteria
-100.00  2       0       K       3379134       Pseudomonadati
-100.00  2       0       P       29547           Campylobacterota
-100.00  2       0       C       3031852           Epsilonproteobacteria
-100.00  2       0       O       213849              Campylobacterales
-100.00  2       0       F       72293                 Helicobacteraceae
-100.00  2       0       G       209                     Helicobacter
-100.00  2       0       S       212                       Helicobacter acinonychis
-100.00  2       2       S1      382638                      Helicobacter acinonychis str. Sheeba
-```
-
 * #### Helicobacter himalayensis identified as Helicobacter himalayensis
-
-```
-100.00  1       0       R       1       root
-100.00  1       0       R1      131567    cellular organisms
-100.00  1       0       R2      2           Bacteria
-100.00  1       0       K       3379134       Pseudomonadati
-100.00  1       0       P       29547           Campylobacterota
-100.00  1       0       C       3031852           Epsilonproteobacteria
-100.00  1       0       O       213849              Campylobacterales
-100.00  1       0       F       72293                 Helicobacteraceae
-100.00  1       0       G       209                     Helicobacter
-100.00  1       1       S       1591088                   Helicobacter himalayensis
-```
 
 ---
 
