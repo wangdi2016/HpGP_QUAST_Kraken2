@@ -3,6 +3,6 @@ do
 
 a=$(tail -n 1 ${f})
 
-echo -e "$f\t$a"  >> kraken2_summ.txt
+echo -e "$f\t$a"  >> kraken2_summary.tsv
 
 done
