@@ -71,7 +71,7 @@ With the public East Asian reference *F16* **(https://www.ncbi.nlm.nih.gov/datas
 <img width="472" height="257" alt="image" src="https://github.com/user-attachments/assets/61c563bb-fd2b-44a6-9e26-61f3220e6ebd" />
 
 ### 3. *SouthAfrica7* (Africa2)
-Using the public African reference *SouthAfrica7* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000185245.1/)**, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**. The rest sequences are less than 10%.
+Using the public African reference *SouthAfrica7* **(https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_000185245.1/)**, only four strains — **HpGP-ZAF-001**, **HpGP-ZAF-006**, **HpGP-ZAF-007**, and **HpGP-ZAF-009** — reached **>80% genome fraction**. The rest sequences are less than 15%.
 
 This finding indicates that the Africa2 lineage possess region-specific structures distinct from other populations. **Only 15 strains showing here in the table (See complete result from Africa2_SouthAfrica7.genome_fraction.xlsx).**
 
