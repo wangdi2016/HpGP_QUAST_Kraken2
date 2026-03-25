@@ -8,7 +8,7 @@ It includes:
 
 * Data sources and download instructions
 * Analysis pipeline scripts
-* Final classification results
+* Final assessment and classification results
 
 ## Repository Structure
 
