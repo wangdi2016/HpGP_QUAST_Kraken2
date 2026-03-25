@@ -106,10 +106,25 @@ done
 
 ### Summary Table (Preview)
 
-| Sample ID | Total Reads | Classified (%) | Unclassified (%) | Top Species |
-| --------- | ----------- | -------------- | ---------------- | ----------- |
-| Sample1   | 1000000     | 98.5           | 1.5              | H. pylori   |
-| Sample2   | ...         | ...            | ...              | ...         |
+| seqid           | taxid   | length  | genus            | species             | strain                            |
+| --------------- | ------- | ------- | ---------------- | ------------------- | --------------------------------- |
+| HpGP-26695-ATCC | 907239  | 1667920 | Helicobacter     | Helicobacter pylori | Helicobacter pylori SouthAfrica7  |
+| HpGP-ALG-001    | 1426844 | 1631355 | Helicobacter     | Helicobacter pylori | Helicobacter pylori NY40          |
+| HpGP-ALG-002    | 907240  | 1636597 | Helicobacter     | Helicobacter pylori | Helicobacter pylori Gambia94/24   |
+| HpGP-ALG-003    | 1321939 | 1653596 | Helicobacter     | Helicobacter pylori | Helicobacter pylori UM037         |
+| HpGP-ALG-004    | 592205  | 1636089 | Helicobacter     | Helicobacter pylori | Helicobacter pylori B38           |
+| HpGP-ALG-005    | 907240  | 1563520 | Helicobacter     | Helicobacter pylori | Helicobacter pylori Gambia94/24   |
+| HpGP-ALG-006    | 907240  | 1617933 | Helicobacter     | Helicobacter pylori | Helicobacter pylori Gambia94/24   |
+...
+| HpGP-ZAF-001    | 907239  | 1714499 | Helicobacter     | Helicobacter pylori | Helicobacter pylori SouthAfrica7  |
+| HpGP-ZAF-002    | 907239  | 1725063 | Helicobacter     | Helicobacter pylori | Helicobacter pylori SouthAfrica7  |
+| HpGP-ZAF-004    | 907239  | 1666673 | Helicobacter     | Helicobacter pylori | Helicobacter pylori SouthAfrica7  |
+| HpGP-ZAF-006    | 907239  | 1641225 | Helicobacter     | Helicobacter pylori | Helicobacter pylori SouthAfrica7  |
+| HpGP-ZAF-007    | 907239  | 1655871 | Helicobacter     | Helicobacter pylori | Helicobacter pylori SouthAfrica7  |
+| HpGP-ZAF-008    | 907239  | 1557316 | Helicobacter     | Helicobacter pylori | Helicobacter pylori SouthAfrica7  |
+| HpGP-ZAF-009    | 907239  | 1681930 | Helicobacter     | Helicobacter pylori | Helicobacter pylori SouthAfrica7  |
+| HpGP-ZAF-010    | 907239  | 1688654 | Helicobacter     | Helicobacter pylori | Helicobacter pylori SouthAfrica7  |
+| HpGP-ZAF-011    | 907239  | 1723727 | Helicobacter     | Helicobacter pylori | Helicobacter pylori SouthAfrica7  |
 
 Full results available at:
 `results/kraken2_summary.tsv`
