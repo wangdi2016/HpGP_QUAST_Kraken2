@@ -1,6 +1,6 @@
-# 🧬 Kraken2 Analysis of 1011 HpGP Genome Sequences
+# Kraken2 Analysis of 1011 HpGP Genome Sequences
 
-## 📌 Overview
+## Overview
 
 This repository documents the taxonomic classification of **1011 Helicobacter pylori Genome Project (HpGP)** genome sequences using **Kraken2**.
 
@@ -13,7 +13,7 @@ It includes:
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ├── data/                # genome data
@@ -25,7 +25,7 @@ It includes:
 
 ---
 
-## 📥 Data Download
+## Data Download
 
 ### HpGP H. pylori Genome Sequences
 
@@ -46,7 +46,7 @@ https://www.ncbi.nlm.nih.gov/bioproject/PRJNA529500
 
 ---
 
-## ⚙️ Kraken2 Setup
+## Kraken2 Setup
 
 ### Install Kraken2
 
@@ -72,7 +72,7 @@ tar xvf k2_standard_20260226.tar.gz
 ```
 ---
 
-## 🚀 Running Kraken2
+## Running Kraken2
 
 Example batch script:
 
@@ -102,7 +102,7 @@ done
 
 ---
 
-## 📊 Results
+## Results
 
 ### Summary Table (Preview)
 
@@ -111,12 +111,12 @@ done
 | Sample1   | 1000000     | 98.5           | 1.5              | H. pylori   |
 | Sample2   | ...         | ...            | ...              | ...         |
 
-👉 Full results available at:
+Full results available at:
 `results/kraken2_summary.tsv`
 
 ---
 
-## 📈 Output Description
+## Output Description
 
 * `*.txt` → detailed taxonomic breakdown
 * `*.kraken2` → classification output
@@ -189,7 +189,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/602/095/GCF_001602095.1_AS
 
 ---
 
-## 🔁 Reproducibility
+## Reproducibility
 
 * Kraken2 version: 2.1.2
 * Database: Standard Kraken2 DB
@@ -198,14 +198,14 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/602/095/GCF_001602095.1_AS
 
 ---
 
-## 🧠 Notes
+## Notes
 
 * Classification accuracy depends on database completeness
 * Assembly quality of genomes may influence results
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you use Kraken2:
 
@@ -215,7 +215,7 @@ Genome Biology (2019).
 
 ---
 
-## 🤝 Acknowledgements
+## Acknowledgements
 
 * Helicobacter pylori Genome Project (HpGP)
 * Kraken2 developers
