@@ -80,7 +80,7 @@ This finding indicates that the Africa2 lineage possess region-specific structur
 ### 4. *GrafGen Bioconductor package*
 For future identification of the population of new strains, we have developed GrafGen, a R package to address this issue (https://www.bioconductor.org/packages/release/bioc/html/GrafGen.html). We presented the results in 2024 AACR (https://aacrjournals.org/cancerres/article/84/6_Supplement/789/736762/Abstract-789-GrafGen-Distance-Based-Inference-of). For detailed information, please check the following paper.
 
-* William Wheeler, Difei Wang, Isaac Zhao, Filipa F Vale, Yumi Jin, Charles S. Rabkin **GrafGen: distance-based inference of population ancestry for Helicobacter pylori genomes** BMC Bioinformatics, 26, 308 (2025).
+* William Wheeler, Difei Wang, Isaac Zhao, Filipa F Vale, Yumi Jin, Charles S. Rabkin [**GrafGen: distance-based inference of population ancestry for Helicobacter pylori genomes**] (https://link.springer.com/article/10.1186/s12859-025-06294-y) BMC Bioinformatics, 26, 308 (2025).
 
 ---
 
