@@ -95,7 +95,7 @@ These results highlight the **regional adaptation and evolutionary differentiati
 
 ## Citation
 If you use this dataset or analysis summary, please cite:
-- Andrés Julián Gutiérrez-Escobar *et al.*
+* Gutiérrez-Escobar A. J. *et al.*
 **Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture** (2026)
 
 
