@@ -95,8 +95,8 @@ These results highlight the **regional adaptation and evolutionary differentiati
 
 ## Citation
 If you use this dataset or analysis summary, please cite:
-* Gutiérrez-Escobar A. J. *et al.*
-**Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture** (2026)
+* Gutiérrez-Escobar A. J. *et al.* (2026).
+**Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture.**
 
 * Gurevich, A., Saveliev, V., Vyahhi, N., & Tesler, G. (2013).
 **QUAST: quality assessment tool for genome assemblies.** Bioinformatics, 29(8), 1072–1075.
