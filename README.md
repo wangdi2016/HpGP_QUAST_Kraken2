@@ -13,8 +13,8 @@ It includes:
 ## Repository Structure
 
 ```
-├── HpGP-Kraken2/           # For Kraken2
-├── HpGP-QUAST/             # For QUAST
+├── HpGP-Kraken2/           # Kraken2 analysis
+├── HpGP-QUAST/             # QUAST analysis
 └── README.md
 ```
 
