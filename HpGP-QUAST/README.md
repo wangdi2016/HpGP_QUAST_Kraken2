@@ -98,4 +98,6 @@ If you use this dataset or analysis summary, please cite:
 * Gutiérrez-Escobar A. J. *et al.*
 **Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture** (2026)
 
-
+* Gurevich, A., Saveliev, V., Vyahhi, N., & Tesler, G. (2013).
+**QUAST: quality assessment tool for genome assemblies.** Bioinformatics, 29(8), 1072–1075.
+https://doi.org/10.1093/bioinformatics/btt086
