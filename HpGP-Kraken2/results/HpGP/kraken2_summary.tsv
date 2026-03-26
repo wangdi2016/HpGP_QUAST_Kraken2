@@ -1,4 +1,5 @@
 seqid	taxid	length	genus	species	strain
+HpGP-26695-ATCC	907239	1667920	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-ALG-001	1426844	1631355	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-ALG-002	907240	1636597	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-ALG-003	1321939	1653596	Helicobacter	Helicobacter pylori	Helicobacter pylori UM037
@@ -37,22 +38,22 @@ HpGP-BGR-006	907237	1643011	Helicobacter	Helicobacter pylori	Helicobacter pylori
 HpGP-BGR-007	907237	1683336	Helicobacter	Helicobacter pylori	Helicobacter pylori Lithuania75
 HpGP-BGR-008	907237	1629022	Helicobacter	Helicobacter pylori	Helicobacter pylori Lithuania75
 HpGP-BGR-010	907237	1604243	Helicobacter	Helicobacter pylori	Helicobacter pylori Lithuania75
-HpGP-BRA-001	985080	1650493	Helicobacter	Helicobacter pylori	
+HpGP-BRA-001	985080	1650493	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-BRA-002	1163742	1649978	Helicobacter	Helicobacter pylori	Helicobacter pylori PeCan18
 HpGP-BRA-003	592205	1620699	Helicobacter	Helicobacter pylori	Helicobacter pylori B38
 HpGP-BRA-004	1163743	1609347	Helicobacter	Helicobacter pylori	Helicobacter pylori HUP-B14
-HpGP-BRA-005	985080	1659707	Helicobacter	Helicobacter pylori	
+HpGP-BRA-005	985080	1659707	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-BRA-006	1426844	1674090	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-BRA-007	907239	1641034	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-BRA-008	1426844	1640553	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-BRA-009	592205	1570607	Helicobacter	Helicobacter pylori	Helicobacter pylori B38
 HpGP-BRA-010	907240	1676807	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-BRA-012	1248725	1568559	Helicobacter	Helicobacter pylori	Helicobacter pylori OK113
-HpGP-BRA-013	985080	1686871	Helicobacter	Helicobacter pylori	
-HpGP-BRA-014	985080	1691857	Helicobacter	Helicobacter pylori	
+HpGP-BRA-013	985080	1686871	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
+HpGP-BRA-014	985080	1691857	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-BRA-015	907237	1640823	Helicobacter	Helicobacter pylori	Helicobacter pylori Lithuania75
 HpGP-BRA-017	765962	1611056	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
-HpGP-BRA-018	985080	1660087	Helicobacter	Helicobacter pylori	
+HpGP-BRA-018	985080	1660087	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-BRA-019	907240	1663543	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-BRA-020	907239	1622043	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-BRA-022	907239	1633843	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
@@ -137,14 +138,14 @@ HpGP-CHN-010	907239	1650269	Helicobacter	Helicobacter pylori	Helicobacter pylori
 HpGP-COG-001	907239	1630386	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-COG-002	1055527	1704117	Helicobacter	Helicobacter pylori	Helicobacter pylori ELS37
 HpGP-COG-003	907239	1651203	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
-HpGP-COG-004	985081	1615896	Helicobacter	Helicobacter pylori	
-HpGP-COG-005	985080	1615998	Helicobacter	Helicobacter pylori	
+HpGP-COG-004	985081	1615896	Helicobacter	Helicobacter pylori	Helicobacter pylori 2017
+HpGP-COG-005	985080	1615998	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-COG-006	907239	1669593	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-COG-007	907239	1675311	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-COG-008	907239	1619424	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-COG-009	907239	1615918	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-COG-010	907239	1641630	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
-HpGP-COG-011	985080	1615559	Helicobacter	Helicobacter pylori	
+HpGP-COG-011	985080	1615559	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-COL-002	907237	1606112	Helicobacter	Helicobacter pylori	Helicobacter pylori Lithuania75
 HpGP-COL-003	907240	1695443	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-COL-004	765962	1640744	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
@@ -153,7 +154,7 @@ HpGP-COL-006	907240	1664661	Helicobacter	Helicobacter pylori	Helicobacter pylori
 HpGP-COL-008	765962	1665362	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
 HpGP-COL-010	592205	1648675	Helicobacter	Helicobacter pylori	Helicobacter pylori B38
 HpGP-COL-102	907240	1687924	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
-HpGP-COL-103	985080	1638876	Helicobacter	Helicobacter pylori	
+HpGP-COL-103	985080	1638876	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-COL-104	765962	1647692	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
 HpGP-COL-105	907240	1594792	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-COL-106	1163743	1600153	Helicobacter	Helicobacter pylori	Helicobacter pylori HUP-B14
@@ -164,7 +165,7 @@ HpGP-COL-110	1426844	1676877	Helicobacter	Helicobacter pylori	Helicobacter pylor
 HpGP-COL-112	1426844	1676845	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-COL-113	765962	1661030	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
 HpGP-COL-114	1426844	1663589	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
-HpGP-COL-118	985080	1697405	Helicobacter	Helicobacter pylori	
+HpGP-COL-118	985080	1697405	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-COL-119	765962	1638083	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
 HpGP-COL-120	907240	1676968	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-COL-121	765962	1666603	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
@@ -173,10 +174,10 @@ HpGP-COL-201	1163743	1591061	Helicobacter	Helicobacter pylori	Helicobacter pylor
 HpGP-COL-202	1163743	1592936	Helicobacter	Helicobacter pylori	Helicobacter pylori HUP-B14
 HpGP-COL-203	907239	1625215	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-COL-204	907240	1648930	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
-HpGP-COL-205	985080	1660637	Helicobacter	Helicobacter pylori	
+HpGP-COL-205	985080	1660637	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-COL-206	1163742	1634751	Helicobacter	Helicobacter pylori	Helicobacter pylori PeCan18
-HpGP-COL-207	985080	1663597	Helicobacter	Helicobacter pylori	
-HpGP-COL-208	985080	1668664	Helicobacter	Helicobacter pylori	
+HpGP-COL-207	985080	1663597	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
+HpGP-COL-208	985080	1668664	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-COL-209	907239	1596433	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-COL-210	1426844	1640247	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-COL-211	765962	1679305	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
@@ -193,22 +194,22 @@ HpGP-COL-318	1426844	1623515	Helicobacter	Helicobacter pylori	Helicobacter pylor
 HpGP-CRI-001	1055527	1659188	Helicobacter	Helicobacter pylori	Helicobacter pylori ELS37
 HpGP-CRI-002	765962	1701407	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
 HpGP-CRI-003	1055527	1660715	Helicobacter	Helicobacter pylori	Helicobacter pylori ELS37
-HpGP-CRI-004	985080	1648254	Helicobacter	Helicobacter pylori	
+HpGP-CRI-004	985080	1648254	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-CRI-005	765962	1736392	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
 HpGP-CRI-006	1426844	1676547	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
-HpGP-CRI-007	985080	1653472	Helicobacter	Helicobacter pylori	
+HpGP-CRI-007	985080	1653472	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-CRI-008	1055527	1708770	Helicobacter	Helicobacter pylori	Helicobacter pylori ELS37
 HpGP-DOM-001	1426844	1623434	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-DOM-002	907240	1666468	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-DOM-003	1426844	1665230	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
-HpGP-DOM-004	985080	1630599	Helicobacter	Helicobacter pylori	
+HpGP-DOM-004	985080	1630599	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-DOM-005	1426844	1719409	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
-HpGP-DOM-006	985080	1633435	Helicobacter	Helicobacter pylori	
-HpGP-DOM-007	985080	1641790	Helicobacter	Helicobacter pylori	
+HpGP-DOM-006	985080	1633435	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
+HpGP-DOM-007	985080	1641790	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-DOM-008	907240	1596574	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-DOM-009	1426844	1590648	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-DOM-010	907240	1648636	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
-HpGP-DOM-011	985080	1632101	Helicobacter	Helicobacter pylori	
+HpGP-DOM-011	985080	1632101	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-FRA-001	1426844	1744811	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-FRA-002	357544	1650725	Helicobacter	Helicobacter pylori	Helicobacter pylori HPAG1
 HpGP-FRA-003	592205	1601763	Helicobacter	Helicobacter pylori	Helicobacter pylori B38
@@ -247,8 +248,8 @@ HpGP-GER-018	592205	1611610	Helicobacter	Helicobacter pylori	Helicobacter pylori
 HpGP-GER-019	592205	1600009	Helicobacter	Helicobacter pylori	Helicobacter pylori B38
 HpGP-GER-020	907237	1626243	Helicobacter	Helicobacter pylori	Helicobacter pylori Lithuania75
 HpGP-GER-021	592205	1641301	Helicobacter	Helicobacter pylori	Helicobacter pylori B38
-HpGP-GHA-003	985080	1568286	Helicobacter	Helicobacter pylori	
-HpGP-GHA-009	985080	1664307	Helicobacter	Helicobacter pylori	
+HpGP-GHA-003	985080	1568286	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
+HpGP-GHA-009	985080	1664307	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-GMB-003	907240	1620274	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-GMB-004	907240	1637745	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-GMB-007	907240	1681498	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
@@ -413,7 +414,7 @@ HpGP-JOR-002	1163743	1613253	Helicobacter	Helicobacter pylori	Helicobacter pylor
 HpGP-JOR-003	907239	1717221	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-JOR-004	907239	1681362	Helicobacter	Helicobacter pylori	Helicobacter pylori SouthAfrica7
 HpGP-JOR-005	1426844	1724222	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
-HpGP-JOR-006	985080	1725642	Helicobacter	Helicobacter pylori	
+HpGP-JOR-006	985080	1725642	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-JOR-007	1321939	1670567	Helicobacter	Helicobacter pylori	Helicobacter pylori UM037
 HpGP-JOR-008	1321939	1706861	Helicobacter	Helicobacter pylori	Helicobacter pylori UM037
 HpGP-JOR-009	1321939	1632805	Helicobacter	Helicobacter pylori	Helicobacter pylori UM037
@@ -577,7 +578,7 @@ HpGP-MEX-028	1055531	1562280	Helicobacter	Helicobacter pylori	Helicobacter pylor
 HpGP-MEX-032	1426844	1631020	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-MEX-035	1426844	1632040	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-MEX-040	765962	1661496	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
-HpGP-MEX-041	985080	1653195	Helicobacter	Helicobacter pylori	
+HpGP-MEX-041	985080	1653195	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-MEX-043	1055527	1656016	Helicobacter	Helicobacter pylori	Helicobacter pylori ELS37
 HpGP-MEX-044	1055527	1696467	Helicobacter	Helicobacter pylori	Helicobacter pylori ELS37
 HpGP-MEX-045	907240	1666989	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
@@ -597,7 +598,7 @@ HpGP-MMR-012	907238	1618041	Helicobacter	Helicobacter pylori	Helicobacter pylori
 HpGP-NGA-006	907240	1650836	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-NGA-010	907240	1638223	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-NGA-017	907240	1695242	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
-HpGP-NGA-019	985080	1650902	Helicobacter	Helicobacter pylori	
+HpGP-NGA-019	985080	1650902	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-NPL-001	1055530	1616123	Helicobacter	Helicobacter pylori	Helicobacter pylori SNT49
 HpGP-NPL-002	907238	1599923	Helicobacter	Helicobacter pylori	Helicobacter pylori India7
 HpGP-NPL-003	907238	1692116	Helicobacter	Helicobacter pylori	Helicobacter pylori India7
@@ -618,7 +619,7 @@ HpGP-PER-016	1163743	1689378	Helicobacter	Helicobacter pylori	Helicobacter pylor
 HpGP-PER-017	1426844	1757475	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-PER-018	907240	1662753	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-PER-019	637913	1657313	Helicobacter	Helicobacter pylori	Helicobacter pylori v225d
-HpGP-PER-020	985080	1687602	Helicobacter	Helicobacter pylori	
+HpGP-PER-020	985080	1687602	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-PER-021	1426844	1660874	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-PER-101	765962	1647544	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
 HpGP-PER-102	765962	1677482	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
@@ -697,7 +698,7 @@ HpGP-POR-115	1426844	1674256	Helicobacter	Helicobacter pylori	Helicobacter pylor
 HpGP-PRI-001	592205	1577958	Helicobacter	Helicobacter pylori	Helicobacter pylori B38
 HpGP-PRI-002	1055527	1626441	Helicobacter	Helicobacter pylori	Helicobacter pylori ELS37
 HpGP-PRI-004	1163743	1589140	Helicobacter	Helicobacter pylori	Helicobacter pylori HUP-B14
-HpGP-PRI-005	985080	1629748	Helicobacter	Helicobacter pylori	
+HpGP-PRI-005	985080	1629748	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-PRI-006	1426844	1625718	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-PRI-007	592205	1637184	Helicobacter	Helicobacter pylori	Helicobacter pylori B38
 HpGP-PRI-008	907240	1672760	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
@@ -762,7 +763,7 @@ HpGP-SPA-108	1163743	1615293	Helicobacter	Helicobacter pylori	Helicobacter pylor
 HpGP-SPA-110	592205	1567837	Helicobacter	Helicobacter pylori	Helicobacter pylori B38
 HpGP-SPA-111	592205	1570816	Helicobacter	Helicobacter pylori	Helicobacter pylori B38
 HpGP-SPA-201	765963	1676894	Helicobacter	Helicobacter pylori	Helicobacter pylori PeCan4
-HpGP-SPA-202	985080	1688307	Helicobacter	Helicobacter pylori	
+HpGP-SPA-202	985080	1688307	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-SPA-203	1163743	1617854	Helicobacter	Helicobacter pylori	Helicobacter pylori HUP-B14
 HpGP-SPA-204	907237	1602682	Helicobacter	Helicobacter pylori	Helicobacter pylori Lithuania75
 HpGP-SPA-205	592205	1576095	Helicobacter	Helicobacter pylori	Helicobacter pylori B38
@@ -799,7 +800,7 @@ HpGP-SPA-401	765962	1606438	Helicobacter	Helicobacter pylori	Helicobacter pylori
 HpGP-SPA-402	907240	1695558	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-SPA-403	765962	1656569	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
 HpGP-SPA-404	1055527	1621300	Helicobacter	Helicobacter pylori	Helicobacter pylori ELS37
-HpGP-SPA-405	985080	1699624	Helicobacter	Helicobacter pylori	
+HpGP-SPA-405	985080	1699624	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-SPA-406	765962	1624145	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
 HpGP-SPA-407	765962	1648481	Helicobacter	Helicobacter pylori	Helicobacter pylori SJM180
 HpGP-SPA-409	907240	1660290	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
@@ -935,7 +936,7 @@ HpGP-USA-011	907239	1641234	Helicobacter	Helicobacter pylori	Helicobacter pylori
 HpGP-USA-101	357544	1592732	Helicobacter	Helicobacter pylori	Helicobacter pylori HPAG1
 HpGP-USA-102	907240	1706986	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-104	907240	1633887	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
-HpGP-USA-105	985080	1668895	Helicobacter	Helicobacter pylori	
+HpGP-USA-105	985080	1668895	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-USA-106	102611	1653583	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
 HpGP-USA-115	102611	1649338	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
 HpGP-USA-116	102611	1613308	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
@@ -950,11 +951,11 @@ HpGP-USA-205	1055531	1584308	Helicobacter	Helicobacter pylori	Helicobacter pylor
 HpGP-USA-206	907240	1712228	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-207	1055527	1565497	Helicobacter	Helicobacter pylori	Helicobacter pylori ELS37
 HpGP-USA-208	102611	1641649	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
-HpGP-USA-301	985080	1622031	Helicobacter	Helicobacter pylori	
+HpGP-USA-301	985080	1622031	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-USA-302	1426844	1660399	Helicobacter	Helicobacter pylori	Helicobacter pylori NY40
 HpGP-USA-303	907240	1648142	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-304	907240	1631362	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
-HpGP-USA-305	985080	1688729	Helicobacter	Helicobacter pylori	
+HpGP-USA-305	985080	1688729	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-USA-306	907240	1689871	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-311	907240	1680096	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-401	102611	1604353	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
@@ -962,21 +963,21 @@ HpGP-USA-402	102611	1627168	Helicobacter	Helicobacter pylori	Helicobacter pylori
 HpGP-USA-403	907240	1652865	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-404	102611	1604853	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
 HpGP-USA-405	102611	1648239	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
-HpGP-USA-406	985080	1637717	Helicobacter	Helicobacter pylori	
+HpGP-USA-406	985080	1637717	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-USA-407	102611	1619587	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
 HpGP-USA-408	907240	1643719	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-409	907240	1655663	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-410	102611	1607365	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
 HpGP-USA-411	907240	1624630	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
-HpGP-USA-412	985080	1632258	Helicobacter	Helicobacter pylori	
+HpGP-USA-412	985080	1632258	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-USA-413	907240	1637829	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-414	1055527	1605620	Helicobacter	Helicobacter pylori	Helicobacter pylori ELS37
 HpGP-USA-415	907240	1646716	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-416	907240	1708342	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-417	907240	1600040	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-418	907240	1678440	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
-HpGP-USA-419	985080	1637921	Helicobacter	Helicobacter pylori	
-HpGP-USA-420	985080	1619626	Helicobacter	Helicobacter pylori	
+HpGP-USA-419	985080	1637921	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
+HpGP-USA-420	985080	1619626	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-USA-421	907240	1705617	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-422	1055530	1602979	Helicobacter	Helicobacter pylori	Helicobacter pylori SNT49
 HpGP-USA-423	102611	1708388	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
@@ -986,9 +987,9 @@ HpGP-USA-427	907240	1664784	Helicobacter	Helicobacter pylori	Helicobacter pylori
 HpGP-USA-428	907240	1645978	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-429	907240	1661732	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-431	102611	1633596	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
-HpGP-USA-432	985080	1652580	Helicobacter	Helicobacter pylori	
+HpGP-USA-432	985080	1652580	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-USA-433	907240	1709495	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
-HpGP-USA-434	985080	1658170	Helicobacter	Helicobacter pylori	
+HpGP-USA-434	985080	1658170	Helicobacter	Helicobacter pylori	Helicobacter pylori 2018
 HpGP-USA-435	907240	1608050	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
 HpGP-USA-436	102611	1659076	Helicobacter	Helicobacter pylori	Helicobacter pylori J166
 HpGP-USA-437	907240	1623941	Helicobacter	Helicobacter pylori	Helicobacter pylori Gambia94/24
