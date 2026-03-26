@@ -164,7 +164,7 @@ wget https://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/001/602/095/GCF_001602095.1_AS
 
 * Escherichia coli K-12 identified as Escherichia coli K-12
 * Helicobacter acinonychis str. Sheeba identified as Helicobacter acinonychis str. Sheeba
-* Helicobacter himalayensis identified as Helicobacter himalayensis
+* Helicobacter himalayensis str. YS1 identified as Helicobacter himalayensis
 
 ---
 
