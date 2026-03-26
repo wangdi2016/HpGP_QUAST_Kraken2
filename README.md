@@ -20,5 +20,4 @@ It includes:
 
 ## Citation
 If you use the analysis summary, please cite:
-- Andrés Julián Gutiérrez-Escobar *et al.*
-*Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture* (2026)
+* Andrés Julián Gutiérrez-Escobar et al. **Global diversity of integrating conjugative elements (ICEs) in Helicobacter pylori and their influence on genome architecture** (2026).
