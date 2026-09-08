@@ -130,7 +130,7 @@ done
 Full results available at:
 [kraken2_summary.tsv](https://raw.githubusercontent.com/wangdi2016/HpGP_QUAST_Kraken2/main/HpGP-Kraken2/results/HpGP/kraken2_summary.tsv)
 
-### Summary Table with genus and species k-mer hits fraction
+### Summary Table with k-mer hits fractions at genus and species levels
 
 | sample          | total_minimizer_hits | genus        | genus_taxid   | genus_hits | genus_fraction | species             | species_taxid   | species_hits    | species_fraction |
 | --------------- | -------------------- | ------------ | ------------- | ---------- | -------------- | ------------------- | --------------- | --------------- | ---------------- |
