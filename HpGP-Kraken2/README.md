@@ -132,17 +132,17 @@ Full results available at:
 
 ### Summary Table with genus and species k-mer hits fraction
 
-|sample           |total_minimizer_hits|genus       |genus_taxid   |genus_hits |genus_fraction |species            |species_taxid  |species_hits   |species_fraction|
-| --------------- | ------------------ | ---------- | -------------| ----------| --------------|-------------------|---------------|---------------|----------------|
-|HpGP-26695-ATCC  |517988              |Helicobacter|209           |512898     |0.990174       |Helicobacter pylori|210            |454183         |0.876821        |
-|HpGP-ALG-001     |476479              |Helicobacter|209           |470184     |0.986789       |Helicobacter pylori|210            |408011         |0.856304        |
-|HpGP-ALG-002     |478531              |Helicobacter|209           |472587     |0.987579       |Helicobacter pylori|210            |414259         |0.865689        |
-|HpGP-ALG-003     |482943              |Helicobacter|209           |476935     |0.987560       |Helicobacter pylori|210            |414746         |0.858789        |
-|HpGP-ALG-004     |476026              |Helicobacter|209           |469626     |0.986555       |Helicobacter pylori|210            |407778         |0.856630        |
-|HpGP-ALG-005     |461515              |Helicobacter|209           |455212     |0.986343       |Helicobacter pylori|210            |399815         |0.866310        |
-|HpGP-ALG-006     |471458              |Helicobacter|209           |464310     |0.984839       |Helicobacter pylori|210            |408214         |0.865854        |
-|HpGP-ALG-007     |473279              |Helicobacter|209           |467416     |0.987612       |Helicobacter pylori|210            |410771         |0.867926        |
-|HpGP-ALG-008     |481868              |Helicobacter|209           |476596     |0.989059       |Helicobacter pylori|210            |414561         |0.860321        |
+| sample          | total_minimizer_hits | genus        | genus_taxid   | genus_hits | genus_fraction | species             | species_taxid   | species_hits    | species_fraction |
+| --------------- | -------------------- | ------------ | ------------- | ---------- | -------------- | ------------------- | --------------- | --------------- | ---------------- |
+| HpGP-26695-ATCC | 517988               | Helicobacter | 209           | 512898     | 0.990174       | Helicobacter pylori | 210             | 454183          | 0.876821         |
+| HpGP-ALG-001    | 476479               | Helicobacter | 209           | 470184     | 0.986789       | Helicobacter pylori | 210             | 408011          | 0.856304         |
+| HpGP-ALG-002    | 478531               | Helicobacter | 209           | 472587     | 0.987579       | Helicobacter pylori | 210             | 414259          | 0.865689         |
+| HpGP-ALG-003    | 482943               | Helicobacter | 209           | 476935     | 0.987560       | Helicobacter pylori | 210             | 414746          | 0.858789         |
+| HpGP-ALG-004    | 476026               | Helicobacter | 209           | 469626     | 0.986555       | Helicobacter pylori | 210             | 407778          | 0.856630         |
+| HpGP-ALG-005    | 461515               | Helicobacter | 209           | 455212     | 0.986343       | Helicobacter pylori | 210             | 399815          | 0.866310         |
+| HpGP-ALG-006    | 471458               | Helicobacter | 209           | 464310     | 0.984839       | Helicobacter pylori | 210             | 408214          | 0.865854         |
+| HpGP-ALG-007    | 473279               | Helicobacter | 209           | 467416     | 0.987612       | Helicobacter pylori | 210             | 410771          | 0.867926         |
+| HpGP-ALG-008    | 481868               | Helicobacter | 209           | 476596     | 0.989059       | Helicobacter pylori | 210             | 414561          | 0.860321         |
 ...
 
 Full results of fraction table available at:
