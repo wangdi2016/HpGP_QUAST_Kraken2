@@ -101,7 +101,7 @@ for file in $INPUT_DIR/*.fna; do
 done
 ```
 * Note: the computer node needs ~ 100 Gb memory to run the standard database. 
-
+* https://github.com/DerrickWood/kraken2/wiki/Manual#confidence-scoring for --report-minimizer-data
 ---
 
 ## Results
