@@ -93,8 +93,9 @@ for file in $INPUT_DIR/*.fna; do
     kraken2 \
         --db $DB \
         --threads 8 \
-        --report $OUTPUT_DIR/${base}.txt \
-        --output $OUTPUT_DIR/${base}.kraken2 \
+        --report-minimizer-data \
+        --report $OUTPUT_DIR/${base}.k2.minimizer_report.report \
+        --output $OUTPUT_DIR/${base}.k2.classifications.tsv \
         $file
 
 done
